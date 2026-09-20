@@ -47,14 +47,10 @@ Repeat for Q2, Q3 and Q4.
 
 ## Evidence
 
-The screenshots were taken during the practical work in the Ubuntu VirtualBox environment and are organized by question and step.
+The screenshots were taken during the practical work in the Ubuntu VirtualBox environment and are organized by question and step
 
 ## Report
 
 The complete practical report is available in:
 
 `docs/Linux_Project.docx`
-
-## Evidence limitation
-
-For Q1, the supplied screenshots do not show an `unlink` command being executed. Therefore, this repository does not claim screenshot evidence for `unlink`.
